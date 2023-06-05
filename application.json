@@ -11,6 +11,7 @@
   "color": "#E3DEFF",
   "icon": "team",
   "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
