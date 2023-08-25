@@ -1,0 +1,79 @@
+{
+    "boxShadow": "none",
+    "mobileBottomRow": 66,
+    "widgetName": "MultiTreeSelect1",
+    "iconSVG": "https://release-appcdn.appsmith.com/static/media/icon.3167ea09b141a0db57f2a78cfc022004.svg",
+    "displayName": "Multi TreeSelect",
+    "labelText": "Label",
+    "topRow": 59,
+    "searchTags": [
+        "dropdown",
+        "multiselecttree"
+    ],
+    "bottomRow": 66,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "MULTI_SELECT_TREE_WIDGET",
+    "hideCard": false,
+    "mode": "SHOW_ALL",
+    "mobileRightColumn": 37,
+    "defaultOptionValue": ["GREEN"],
+    "animateLoading": true,
+    "parentColumnSpace": 9.912681579589844,
+    "leftColumn": 52,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"}
+    ],
+    "labelPosition": "Top",
+    "options": [
+        {
+            "children": [
+                {
+                    "label": "Dark Blue",
+                    "value": "DARK BLUE"
+                },
+                {
+                    "label": "Light Blue",
+                    "value": "LIGHT BLUE"
+                }
+            ],
+            "label": "Blue",
+            "value": "BLUE"
+        },
+        {
+            "label": "Green",
+            "value": "GREEN"
+        },
+        {
+            "label": "Red",
+            "value": "RED"
+        }
+    ],
+    "placeholderText": "Select option(s)",
+    "isDisabled": false,
+    "key": "qohf3pg8rn",
+    "labelTextSize": "0.875rem",
+    "isRequired": false,
+    "isDeprecated": false,
+    "rightColumn": 54,
+    "dynamicHeight": "FIXED",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "widgetId": "19bmq6y6go",
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 1,
+    "expandAll": false,
+    "parentId": "zvz0f0kfgb",
+    "tags": ["Select"],
+    "isLoading": false,
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "mobileTopRow": 59,
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 17,
+    "maxDynamicHeight": 9000,
+    "allowClear": false,
+    "minDynamicHeight": 4
+}
